@@ -1,0 +1,17 @@
+{
+  "name": "videoconvertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
